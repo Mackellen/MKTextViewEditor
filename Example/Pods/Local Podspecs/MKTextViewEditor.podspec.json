@@ -1,0 +1,22 @@
+{
+  "name": "MKTextViewEditor",
+  "version": "0.1.0",
+  "summary": "A short description of MKTextViewEditor.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/mackellen/MKTextViewEditor",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "mackellen": "wangf@e-mutai.com"
+  },
+  "source": {
+    "git": "https://github.com/mackellen/MKTextViewEditor.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "MKTextViewEditor/Classes/**/*"
+}

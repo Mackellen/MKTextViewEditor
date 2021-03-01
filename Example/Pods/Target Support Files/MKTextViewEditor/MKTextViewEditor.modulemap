@@ -1,0 +1,6 @@
+framework module MKTextViewEditor {
+  umbrella header "MKTextViewEditor-umbrella.h"
+
+  export *
+  module * { export * }
+}

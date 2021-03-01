@@ -1,0 +1,16 @@
+PODS:
+  - MKTextViewEditor (0.1.0)
+
+DEPENDENCIES:
+  - MKTextViewEditor (from `../`)
+
+EXTERNAL SOURCES:
+  MKTextViewEditor:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MKTextViewEditor: 400ad06dc97d63b500ac7bdc0847e236b6e193f2
+
+PODFILE CHECKSUM: 930f00e7cd25579fe571c0d3690ccc955d7894f6
+
+COCOAPODS: 1.10.1

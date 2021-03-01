@@ -1,13 +1,8 @@
 use_frameworks!
 
-platform :ios, '9.0'
+platform :ios, '10.0'
 
-target 'MKTextViewEditor_Example' do
+target 'TestDemo' do
   pod 'MKTextViewEditor', :path => '../'
 
-  target 'MKTextViewEditor_Tests' do
-    inherit! :search_paths
-
-    
-  end
 end
