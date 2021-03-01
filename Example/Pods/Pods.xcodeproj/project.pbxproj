@@ -7,21 +7,21 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		4F42B0562CE99663DD8F4E9B834EA02B /* MKTextViewEditor-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 8EC7B763D0DAEE6F123C985E3FD6FFF1 /* MKTextViewEditor-dummy.m */; };
+		4F42B0562CE99663DD8F4E9B834EA02B /* MKTextViewEditor-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 28D3E33D364F5C9586832373299E0F8E /* MKTextViewEditor-dummy.m */; };
 		54A0F7D844AC4AEC35FE1A6932F0C585 /* Pods-TestDemo-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = F5AD45B5EA2EF7CC45DC0FFC5A4A3CA2 /* Pods-TestDemo-dummy.m */; };
 		63C332F6FB3B9CDD92FF555AB69A9223 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
 		75D1A143F1CDE2FBE66F0F256D9840BE /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */; };
-		85F74BDDE14DD27632B2CF3B48008CC7 /* MKExtentionImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3AF0800E48C31425D6EA3BD95AC4E4F4 /* MKExtentionImage.swift */; };
+		85F74BDDE14DD27632B2CF3B48008CC7 /* MKExtentionImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = D916D25AED66AE09DD6B2632621473E3 /* MKExtentionImage.swift */; };
 		9983A00907C9096E05B1FB3D5FC0B6A8 /* Pods-TestDemo-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = 4A2C7460490938A52A72C3954C52DDE4 /* Pods-TestDemo-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		AF134A5854DD39A17C08DAA9FD88D5E9 /* MKTextEditorManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = EE64259265A75F605E67F603E560177E /* MKTextEditorManager.swift */; };
-		B5AF1965D53D5541F57131E4C61E95C1 /* MKTextEditorToolBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0635CDF820AED4C248DB84C6A5AF4DE /* MKTextEditorToolBar.swift */; };
-		B857D5CE10F4B9DA8AC7F24B86F44B58 /* MKTextViewEditor.swift in Sources */ = {isa = PBXBuildFile; fileRef = F816FEEC3614F245586021D0F8D23AD7 /* MKTextViewEditor.swift */; };
-		C2E0FA6A222C2C91C4CD6473A0F1C20E /* MKTextViewEditor-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = BD1D9B294E7808C4068C6F4D6C17E1E7 /* MKTextViewEditor-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		C2FAE6477FB50DB167467BBD7A38C819 /* MKTextEditorHtmlParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = ABC8D33D86E802EDE1F385A1908DAD93 /* MKTextEditorHtmlParser.swift */; };
+		AF134A5854DD39A17C08DAA9FD88D5E9 /* MKTextEditorManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = D9C4988430A8DD32077C473109873E1D /* MKTextEditorManager.swift */; };
+		B5AF1965D53D5541F57131E4C61E95C1 /* MKTextEditorToolBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = E9AF2CF75DBD007C384C0C2D8E73E827 /* MKTextEditorToolBar.swift */; };
+		B857D5CE10F4B9DA8AC7F24B86F44B58 /* MKTextViewEditor.swift in Sources */ = {isa = PBXBuildFile; fileRef = C039D3C889A85736DA295A20F0340CDF /* MKTextViewEditor.swift */; };
+		C2E0FA6A222C2C91C4CD6473A0F1C20E /* MKTextViewEditor-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = E93FF1733A6E5BADFFFD56692ADCF357 /* MKTextViewEditor-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		C2FAE6477FB50DB167467BBD7A38C819 /* MKTextEditorHtmlParser.swift in Sources */ = {isa = PBXBuildFile; fileRef = B77941044128317BD0C32EA1477CB0DB /* MKTextEditorHtmlParser.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		C3FD31EB8BCA6AB21ECB909759454450 /* PBXContainerItemProxy */ = {
+		02B9AA6E327B4CC44DCE88C769D612A0 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = BFDFE7DC352907FC980B868725387E98 /* Project object */;
 			proxyType = 1;
@@ -31,34 +31,31 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		024ABA276CADD0A86DC2C8218AFCAB49 /* MKTextViewEditor.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MKTextViewEditor.release.xcconfig; sourceTree = "<group>"; };
 		040CF7A6009D9E73CFAF9D3FD467B533 /* Pods-TestDemo.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TestDemo.release.xcconfig"; sourceTree = "<group>"; };
 		05A1A18723708ECBA344FD8216F39D3B /* MKTextViewEditor.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = MKTextViewEditor.framework; path = MKTextViewEditor.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		11D2AF474A17327ED815014E88927C75 /* Pods-TestDemo.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-TestDemo.debug.xcconfig"; sourceTree = "<group>"; };
-		1402302252A86249CBC1FF19D0ADD2C1 /* MKTextViewEditor-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "MKTextViewEditor-Info.plist"; sourceTree = "<group>"; };
+		28D3E33D364F5C9586832373299E0F8E /* MKTextViewEditor-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "MKTextViewEditor-dummy.m"; sourceTree = "<group>"; };
 		3290630007102B333B4A6C4851DD25DC /* Pods-TestDemo.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-TestDemo.modulemap"; sourceTree = "<group>"; };
 		3509045A7C22541DA7FA8CE355D0538A /* Pods-TestDemo-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-TestDemo-frameworks.sh"; sourceTree = "<group>"; };
-		3AF0800E48C31425D6EA3BD95AC4E4F4 /* MKExtentionImage.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MKExtentionImage.swift; path = MKTextViewEditor/Classes/MKExtentionImage.swift; sourceTree = "<group>"; };
 		3C0F8342F1D34F4CC2005CC11291C764 /* Pods-TestDemo-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-TestDemo-acknowledgements.plist"; sourceTree = "<group>"; };
 		3DDF8E5074F323E073CA7CC2EA7C76D2 /* Pods-TestDemo-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-TestDemo-Info.plist"; sourceTree = "<group>"; };
 		4A2C7460490938A52A72C3954C52DDE4 /* Pods-TestDemo-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-TestDemo-umbrella.h"; sourceTree = "<group>"; };
 		4EF4ABDD2A68A203315405DD021F16D6 /* Pods-TestDemo-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-TestDemo-acknowledgements.markdown"; sourceTree = "<group>"; };
-		718A3BE39D83C1C3E56DEC3FC9531A38 /* MKTextViewEditor.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = MKTextViewEditor.modulemap; sourceTree = "<group>"; };
+		5ECC7427B59FF8F8869829E5FB057B8C /* MKTextViewEditor.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MKTextViewEditor.debug.xcconfig; sourceTree = "<group>"; };
 		73010CC983E3809BECEE5348DA1BB8C6 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS14.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		764862F3AE8502FB1A918F90ADDCA3B6 /* MKTextViewEditor.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = MKTextViewEditor.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		8D50E96E67926203F1F67202E148BFEB /* MKTextViewEditor-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MKTextViewEditor-prefix.pch"; sourceTree = "<group>"; };
-		8EC7B763D0DAEE6F123C985E3FD6FFF1 /* MKTextViewEditor-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "MKTextViewEditor-dummy.m"; sourceTree = "<group>"; };
+		8E18AD5891ACDBC30D9F9BFF760B8CED /* MKTextViewEditor-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "MKTextViewEditor-Info.plist"; sourceTree = "<group>"; };
+		9BCEE62C98CBDC40CB3DA195FEF620F1 /* MKTextViewEditor.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MKTextViewEditor.release.xcconfig; sourceTree = "<group>"; };
 		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		ABC8D33D86E802EDE1F385A1908DAD93 /* MKTextEditorHtmlParser.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MKTextEditorHtmlParser.swift; path = MKTextViewEditor/Classes/MKTextEditorHtmlParser.swift; sourceTree = "<group>"; };
-		B0635CDF820AED4C248DB84C6A5AF4DE /* MKTextEditorToolBar.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MKTextEditorToolBar.swift; path = MKTextViewEditor/Classes/MKTextEditorToolBar.swift; sourceTree = "<group>"; };
-		BD1D9B294E7808C4068C6F4D6C17E1E7 /* MKTextViewEditor-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MKTextViewEditor-umbrella.h"; sourceTree = "<group>"; };
-		C425BFAC42FF02AD9DD64FC3C6E30FC7 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
-		E69D6B5762EA84156316542A875AE4A4 /* MKTextViewEditor.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = MKTextViewEditor.debug.xcconfig; sourceTree = "<group>"; };
-		E7E7414B6BFE87790FC244755AD67BFF /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		B77941044128317BD0C32EA1477CB0DB /* MKTextEditorHtmlParser.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MKTextEditorHtmlParser.swift; path = MKTextViewEditor/Classes/MKTextEditorHtmlParser.swift; sourceTree = "<group>"; };
+		C039D3C889A85736DA295A20F0340CDF /* MKTextViewEditor.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MKTextViewEditor.swift; path = MKTextViewEditor/Classes/MKTextViewEditor.swift; sourceTree = "<group>"; };
+		D916D25AED66AE09DD6B2632621473E3 /* MKExtentionImage.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MKExtentionImage.swift; path = MKTextViewEditor/Classes/MKExtentionImage.swift; sourceTree = "<group>"; };
+		D9C4988430A8DD32077C473109873E1D /* MKTextEditorManager.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MKTextEditorManager.swift; path = MKTextViewEditor/Classes/MKTextEditorManager.swift; sourceTree = "<group>"; };
+		E93FF1733A6E5BADFFFD56692ADCF357 /* MKTextViewEditor-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MKTextViewEditor-umbrella.h"; sourceTree = "<group>"; };
+		E9AF2CF75DBD007C384C0C2D8E73E827 /* MKTextEditorToolBar.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MKTextEditorToolBar.swift; path = MKTextViewEditor/Classes/MKTextEditorToolBar.swift; sourceTree = "<group>"; };
 		EAF60197691A3AE3236E50385B1DE302 /* Pods_TestDemo.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_TestDemo.framework; path = "Pods-TestDemo.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		EE64259265A75F605E67F603E560177E /* MKTextEditorManager.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MKTextEditorManager.swift; path = MKTextViewEditor/Classes/MKTextEditorManager.swift; sourceTree = "<group>"; };
+		EC38E9927D1CF13E78E0126ACA451750 /* MKTextViewEditor-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "MKTextViewEditor-prefix.pch"; sourceTree = "<group>"; };
+		F34E1AA7962EA3F0039453215470BCBC /* MKTextViewEditor.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = MKTextViewEditor.modulemap; sourceTree = "<group>"; };
 		F5AD45B5EA2EF7CC45DC0FFC5A4A3CA2 /* Pods-TestDemo-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-TestDemo-dummy.m"; sourceTree = "<group>"; };
-		F816FEEC3614F245586021D0F8D23AD7 /* MKTextViewEditor.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MKTextViewEditor.swift; path = MKTextViewEditor/Classes/MKTextViewEditor.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +78,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0EC4599E3F76E1970BB44028EBB29D9C /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				C499364E46A9C2603229D9FB928D4E1D /* MKTextViewEditor */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		1C249829BBC1E544AF5A79BDFA8B5B81 /* Products */ = {
 			isa = PBXGroup;
 			children = (
@@ -123,33 +128,44 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
-		B4D8DB8236A301AF388CB355117F9669 /* Pod */ = {
+		C44515BFCFE17F436D3E6A7EA1FC871F /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				C425BFAC42FF02AD9DD64FC3C6E30FC7 /* LICENSE */,
-				764862F3AE8502FB1A918F90ADDCA3B6 /* MKTextViewEditor.podspec */,
-				E7E7414B6BFE87790FC244755AD67BFF /* README.md */,
+				F34E1AA7962EA3F0039453215470BCBC /* MKTextViewEditor.modulemap */,
+				28D3E33D364F5C9586832373299E0F8E /* MKTextViewEditor-dummy.m */,
+				8E18AD5891ACDBC30D9F9BFF760B8CED /* MKTextViewEditor-Info.plist */,
+				EC38E9927D1CF13E78E0126ACA451750 /* MKTextViewEditor-prefix.pch */,
+				E93FF1733A6E5BADFFFD56692ADCF357 /* MKTextViewEditor-umbrella.h */,
+				5ECC7427B59FF8F8869829E5FB057B8C /* MKTextViewEditor.debug.xcconfig */,
+				9BCEE62C98CBDC40CB3DA195FEF620F1 /* MKTextViewEditor.release.xcconfig */,
 			);
-			name = Pod;
+			name = "Support Files";
+			path = "../Target Support Files/MKTextViewEditor";
+			sourceTree = "<group>";
+		};
+		C499364E46A9C2603229D9FB928D4E1D /* MKTextViewEditor */ = {
+			isa = PBXGroup;
+			children = (
+				D916D25AED66AE09DD6B2632621473E3 /* MKExtentionImage.swift */,
+				B77941044128317BD0C32EA1477CB0DB /* MKTextEditorHtmlParser.swift */,
+				D9C4988430A8DD32077C473109873E1D /* MKTextEditorManager.swift */,
+				E9AF2CF75DBD007C384C0C2D8E73E827 /* MKTextEditorToolBar.swift */,
+				C039D3C889A85736DA295A20F0340CDF /* MKTextViewEditor.swift */,
+				C44515BFCFE17F436D3E6A7EA1FC871F /* Support Files */,
+			);
+			name = MKTextViewEditor;
+			path = MKTextViewEditor;
 			sourceTree = "<group>";
 		};
 		CF1408CF629C7361332E53B88F7BD30C = {
 			isa = PBXGroup;
 			children = (
 				9D940727FF8FB9C785EB98E56350EF41 /* Podfile */,
-				CF50784D8CF57632DE61F49A79490B38 /* Development Pods */,
 				D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */,
+				0EC4599E3F76E1970BB44028EBB29D9C /* Pods */,
 				1C249829BBC1E544AF5A79BDFA8B5B81 /* Products */,
 				69F9FAC80B7BC0591E9F489C9E8B3C22 /* Targets Support Files */,
 			);
-			sourceTree = "<group>";
-		};
-		CF50784D8CF57632DE61F49A79490B38 /* Development Pods */ = {
-			isa = PBXGroup;
-			children = (
-				E6077CAF11013A040623E37102B75CFD /* MKTextViewEditor */,
-			);
-			name = "Development Pods";
 			sourceTree = "<group>";
 		};
 		D210D550F4EA176C3123ED886F8F87F5 /* Frameworks */ = {
@@ -158,36 +174,6 @@
 				578452D2E740E91742655AC8F1636D1F /* iOS */,
 			);
 			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		D26F07FF24043043B9C5593829F05328 /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				718A3BE39D83C1C3E56DEC3FC9531A38 /* MKTextViewEditor.modulemap */,
-				8EC7B763D0DAEE6F123C985E3FD6FFF1 /* MKTextViewEditor-dummy.m */,
-				1402302252A86249CBC1FF19D0ADD2C1 /* MKTextViewEditor-Info.plist */,
-				8D50E96E67926203F1F67202E148BFEB /* MKTextViewEditor-prefix.pch */,
-				BD1D9B294E7808C4068C6F4D6C17E1E7 /* MKTextViewEditor-umbrella.h */,
-				E69D6B5762EA84156316542A875AE4A4 /* MKTextViewEditor.debug.xcconfig */,
-				024ABA276CADD0A86DC2C8218AFCAB49 /* MKTextViewEditor.release.xcconfig */,
-			);
-			name = "Support Files";
-			path = "Example/Pods/Target Support Files/MKTextViewEditor";
-			sourceTree = "<group>";
-		};
-		E6077CAF11013A040623E37102B75CFD /* MKTextViewEditor */ = {
-			isa = PBXGroup;
-			children = (
-				3AF0800E48C31425D6EA3BD95AC4E4F4 /* MKExtentionImage.swift */,
-				ABC8D33D86E802EDE1F385A1908DAD93 /* MKTextEditorHtmlParser.swift */,
-				EE64259265A75F605E67F603E560177E /* MKTextEditorManager.swift */,
-				B0635CDF820AED4C248DB84C6A5AF4DE /* MKTextEditorToolBar.swift */,
-				F816FEEC3614F245586021D0F8D23AD7 /* MKTextViewEditor.swift */,
-				B4D8DB8236A301AF388CB355117F9669 /* Pod */,
-				D26F07FF24043043B9C5593829F05328 /* Support Files */,
-			);
-			name = MKTextViewEditor;
-			path = ../..;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -224,7 +210,7 @@
 			buildRules = (
 			);
 			dependencies = (
-				49BCFCB224FD2EBB2CC6DF7F1CB8B3F4 /* PBXTargetDependency */,
+				0A26D5D46B69EDE892A96CC39AA815A9 /* PBXTargetDependency */,
 			);
 			name = "Pods-TestDemo";
 			productName = "Pods-TestDemo";
@@ -319,11 +305,11 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		49BCFCB224FD2EBB2CC6DF7F1CB8B3F4 /* PBXTargetDependency */ = {
+		0A26D5D46B69EDE892A96CC39AA815A9 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			name = MKTextViewEditor;
 			target = FCDD2397CB238625FECCBB06C4FB5479 /* MKTextViewEditor */;
-			targetProxy = C3FD31EB8BCA6AB21ECB909759454450 /* PBXContainerItemProxy */;
+			targetProxy = 02B9AA6E327B4CC44DCE88C769D612A0 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -367,7 +353,7 @@
 		};
 		6D38D51566BCFB387A7CAB4FFB71FEA0 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = E69D6B5762EA84156316542A875AE4A4 /* MKTextViewEditor.debug.xcconfig */;
+			baseConfigurationReference = 5ECC7427B59FF8F8869829E5FB057B8C /* MKTextViewEditor.debug.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
@@ -501,7 +487,7 @@
 		};
 		A295C180B28809A48B26EAEEF3F52697 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 024ABA276CADD0A86DC2C8218AFCAB49 /* MKTextViewEditor.release.xcconfig */;
+			baseConfigurationReference = 9BCEE62C98CBDC40CB3DA195FEF620F1 /* MKTextViewEditor.release.xcconfig */;
 			buildSettings = {
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";

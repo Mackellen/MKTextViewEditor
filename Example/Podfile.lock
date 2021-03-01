@@ -2,15 +2,20 @@ PODS:
   - MKTextViewEditor (0.1.0)
 
 DEPENDENCIES:
-  - MKTextViewEditor (from `../`)
+  - MKTextViewEditor (from `https://github.com/Mackellen/MKTextViewEditor.git`)
 
 EXTERNAL SOURCES:
   MKTextViewEditor:
-    :path: "../"
+    :git: https://github.com/Mackellen/MKTextViewEditor.git
+
+CHECKOUT OPTIONS:
+  MKTextViewEditor:
+    :commit: ac280d70ba9cb81fb2950df57dbebeda5e21c419
+    :git: https://github.com/Mackellen/MKTextViewEditor.git
 
 SPEC CHECKSUMS:
   MKTextViewEditor: 400ad06dc97d63b500ac7bdc0847e236b6e193f2
 
-PODFILE CHECKSUM: 930f00e7cd25579fe571c0d3690ccc955d7894f6
+PODFILE CHECKSUM: 43f78aad36e5f122b0a679459250ce88e0c43649
 
 COCOAPODS: 1.10.1
